@@ -3,7 +3,8 @@ Aviation Safety Reporting System from NASA
 
 # Contents
 
-ASRS Data extracted as csv [Archive.org](https://archive.org/details/asrs-extracted.tar)
+ASRS Data extracted as csv [Github](https://github.com/orangejulius/asrs-data/raw/master/asrs-extracted.tar.bz2) [Archive.org](https://archive.org/details/asrs-extracted.tar)
+
 Raw data as an Oracle DB dumpfile [Archive.org](https://archive.org/details/AsrsDatabaseoracleDump) (oops, too big for Github)
 
 # License
